@@ -1,4 +1,4 @@
-# 💫 About Me:
+'[# 💫 About Me:
 Ingeniero en Informática | Frontend Engineer especializado en React, Next.js y Ecosistemas de Alto Rendimiento.<br><br>Me dedico a transformar la complejidad técnica en interfaces intuitivas, rápidas y escalables. Mi enfoque combina la precisión de la ingeniería con una visión estética funcional, asegurando que cada línea de código contribuya a una experiencia de usuario excepcional.<br><br>Aunque mi especialidad y pasión residen en el Frontend, poseo un dominio sólido de herramientas de arquitectura de datos como Prisma, SQL y Supabase. Esto me permite diseñar arquitecturas frontend que se integran a la perfección con el backend, optimizando el flujo de datos y el rendimiento global de la aplicación.
 
 
@@ -10,7 +10,7 @@ Ingeniero en Informática | Frontend Engineer especializado en React, Next.js y 
 
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/josedejesusborrero) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JBorrerodelgado) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
