@@ -43,7 +43,7 @@ Arquitectura por capas (DDD) organizada por feature, programación funcional, va
 
 ## 🌐 Portafolio y contacto
 
-🔗 **Portafolio:** [josedejesusborrerov2.netlify.app](https://josedejesusborrerov2.netlify.app)
+🔗 **Portafolio:** [josedejesusborrero.netlify.app](https://josedejesusborrero.netlify.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josedejesusborrero) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sistemas_Web_JB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jose_dejesus_borrero) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/josedejesus.borrero) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josedejesusborrero81@gmail.com)
 
